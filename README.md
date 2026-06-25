@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Example scripts can be found in the `work/` directory.
 
 ## Repository structure
-
+```
 StarGal/
 ├── data/
 ├── locus/
@@ -51,7 +51,7 @@ StarGal/
 ├── photosorter/
 ├── utils/
 └── work/
-
+```
 ## License
 
 GPL-3.0 License
