@@ -1,0 +1,23 @@
+name: stargal
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.13
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - astropy
+  - scikit-learn
+  - jupyter
+  - tqdm
+  - pyyaml
+  - h5py
+  - fitsio
+  - healpy
+  - pip:
+      - tqdm
+      - pyyaml

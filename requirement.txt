@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+astropy
+scikit-learn
+jupyter
+tqdm
+pyyaml
+h5py
+fitsio
+healpy
